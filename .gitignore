@@ -1,0 +1,7 @@
+front/node_modules
+front/yarn.lock
+go.sum
+dist
+www/**
+assets.go
+.idea
